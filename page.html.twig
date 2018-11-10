@@ -1,0 +1,30 @@
+<nav class="top-nav">
+  <div class="left">
+    <h3>AniketDVD</h3>
+  </div>
+</nav>
+<header>
+  {{ page.header }}
+</header>
+<div class="breadcrumb-plate">
+  {{ page.breadcrumb }}
+</div>
+<main>
+  {% if page.sidebar_first %}
+    <aside class="right sidebar">
+      {{ page.sidebar_first }}
+    </aside>
+  {% endif %}
+
+  {{ page.content }}
+  
+  {% if page.sidebar_second %}
+    <aside class="right sidebar">
+      {{ page.sidebar_second }}
+    </aside>
+  {% endif %}
+</main>
+
+<footer>
+  {{ page.footer }}
+</footer>

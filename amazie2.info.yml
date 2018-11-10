@@ -1,0 +1,18 @@
+name: amazie3
+type: theme
+description: use this now
+core: 8.x
+#IMPORTANT!!!!!!!!!!!!
+base theme: classy
+package: aniketdvd
+
+libraries: 
+  - amazie2/mystyle
+
+regions:
+  header: header
+  content: content
+  footer: footer
+  sidebar_first: sidebar_first
+  sidebar_second: sidebar_second
+  breadcrumbs: breadcrumbs
