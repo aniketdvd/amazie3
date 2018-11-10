@@ -1,5 +1,5 @@
 # amazie3
-# amazie
+
 # what is amazie?
 Amazie is a Drupal 8 theme
 
