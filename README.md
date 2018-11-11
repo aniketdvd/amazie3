@@ -17,6 +17,11 @@ Extact this downloaded archive there and you are ready to rock!
 --let that install--
 * done!!!
 
+# more
+Making a sub-theme or a theme that uses some other theme as its base theme is beneficial as this brings in the concept of inheritance. You new theme can fetch libraries and classes from its base/parent theme. Though the regions are not inherited, we need to speccify the regions in our *.info.yml file.
+This theme uses classy as its base theme.
+:)
+
 See the theme in action : http://35.244.45.127/
 
 *Google Code-in 2018*
