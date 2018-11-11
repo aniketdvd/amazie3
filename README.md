@@ -36,4 +36,8 @@ Do checkout the official Drupal Documentation for usage and implementation:
 ## And it looks like...
 ![Screenshot](screenshot.png)
 
+## You can see the screenshot is also being displayed in our Admin panel of Drupal Site. 
+### How? Drupal identifies the ```screenshot.png``` in the root directory of your theme.
+![Screenshot2](screenshot2.png)
+
 *Google Code-in 2018*
