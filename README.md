@@ -33,5 +33,7 @@ One can also make sub-sub-themes (sub-theme using a sub-theme as base theme)
 Do checkout the official Drupal Documentation for usage and implementation:
 * [making a sub-sub-theme](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme)
 
+## And it looks like...
+![Screenshot](screenshot.png)
 
 *Google Code-in 2018*
